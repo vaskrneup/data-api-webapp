@@ -30,9 +30,4 @@ urlpatterns = [
         view=nepalstock_view.get_company_names,
         name="daily-share-total-value"
     ),
-    path(
-        "company-names/",
-        view=nepalstock_view.get_company_names,
-        name="daily-share-total-value"
-    ),
 ]
