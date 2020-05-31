@@ -7,3 +7,6 @@ NOTE: You can change DataAPi/settings.py
 MY_SETTINGS["use_scraper"] = True  
 
 to get current data/missing data.
+
+
+<a href="https://nepseapi.pythonanywhere.com/">Link to hosted site</a>
