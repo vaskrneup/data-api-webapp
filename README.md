@@ -9,4 +9,4 @@ MY_SETTINGS["use_scraper"] = True
 to get current data/missing data.
 
 
-<a href="https://nepseapi.pythonanywhere.com/">Link to hosted site</a>
+<a href="https://nepseapi.pythonanywhere.com/" target="blank">Link to hosted site</a>
